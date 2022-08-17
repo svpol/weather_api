@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": -84.3863,
+        "lat": 33.7537
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 21.31,
+        "feels_like": 21.72,
+        "temp_min": 20.38,
+        "temp_max": 22,
+        "pressure": 1015,
+        "humidity": 85
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.09,
+        "deg": 100
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1660737368,
+    "sys": {
+        "type": 2,
+        "id": 2006620,
+        "country": "US",
+        "sunrise": 1660734063,
+        "sunset": 1660782147
+    },
+    "timezone": -14400,
+    "id": 4180439,
+    "name": "Atlanta",
+    "cod": 200
+}
